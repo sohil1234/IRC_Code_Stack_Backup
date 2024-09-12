@@ -36,4 +36,17 @@ This repository contains Python scripts designed to manage the control and navig
   - Implements the search algorithm for arrows.
   - Uses a combination of visual detection and movement commands to locate and approach arrows.
 
+## How to Use
 
+1. **SSH Login**:
+   - **Command**: 
+     ```bash
+     ssh kratos@192.168.1.10
+     ```
+   - **Password**: `kratos123`
+
+2. **Run the Terminator Script**:
+   - After logging in, run the terminator script to start the system:
+     ```bash
+     ./terminator.sh
+     ```
